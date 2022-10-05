@@ -1,3 +1,16 @@
 body {
-	background-color: Gray;
+	background-color: yellow;
+}
+
+.baner {
+	text-align: center;
+}
+
+.main {
+	text-align: center;
+	font-size: 200%;
+}
+
+.footer {
+	text-align: right;
 }
